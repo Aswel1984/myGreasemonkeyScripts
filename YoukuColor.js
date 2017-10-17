@@ -9,7 +9,7 @@
 // @version     1
 // ==/UserScript==
 
-
+// 优酷视频根据不同时长显示不同颜色
 // 解决 GM_addStyle 的一些兼容问题
 if (!function testAddStyle() {
   try {
