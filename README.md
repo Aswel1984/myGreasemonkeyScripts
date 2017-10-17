@@ -1,1 +1,1 @@
-# youku
+# greasemonkey或tampermonkey脚本
