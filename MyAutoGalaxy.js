@@ -9,7 +9,7 @@
 // @copyright  2012+, You
 // ==/UserScript==
 
-
+//【chrome tampermonkey插件脚本】
 //从当前银河系开始自动扫描后续所有银河系的玩家星球坐标，并保存到数据库
 //数据库文件位置为C:\Users\XXXX\AppData\Local\Google\Chrome\User Data\Default\databases
 
