@@ -1,6 +1,6 @@
 # greasemonkey或tampermonkey脚本
 
-```
+```python
 import itchat
 import time
 
